@@ -308,7 +308,7 @@ ul.node-tools li:last-child {
 }
 
 .qq-uploader{
-    background: url('/admin/img/tooltag-add.gif') no-repeat scroll 100% 0 #999999;
+    background: url('../../admin/img/tooltag-add.gif') no-repeat scroll 100% 0 #999999;
     color: white;
     display: block;
     float: left;
@@ -322,6 +322,6 @@ ul.node-tools li:last-child {
 }
 
 .qq-uploader:hover {
-    background: url('/admin/img/tooltag-add_over.gif') no-repeat scroll 100% 0 #5B80B2;
+    background: url('../../admin/img/tooltag-add_over.gif') no-repeat scroll 100% 0 #5B80B2;
     text-decoration: none;
 }

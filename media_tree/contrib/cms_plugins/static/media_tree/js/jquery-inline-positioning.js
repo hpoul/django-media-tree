@@ -47,7 +47,7 @@ jQuery(function($) {
     }
 
     var addRow = target.find('.add-row');
-    addRow.remove();
+    addRow.detach();
     var ordered = [];
     var unordered = [];
     // Initially, remove and re-append all inlines ordered by their "position" value
